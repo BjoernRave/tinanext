@@ -1,0 +1,29 @@
+{
+  "name": "nextjs-tinacms",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "NODE_ENV=production node server.js"
+  },
+  "dependencies": {
+    "@tinacms/api-git": "^0.7.0",
+    "@tinacms/git-client": "^0.6.0",
+    "@types/next": "^9.0.0",
+    "@types/node": "13.9.0",
+    "@types/react": "16.9.23",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "next": "9.3.0",
+    "next-tinacms-json": "^0.3.5",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "styled-components": "^5.0.1",
+    "tinacms": "^0.16.0",
+    "typescript": "3.8.3"
+  },
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}

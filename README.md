@@ -1,2 +1,0 @@
-# tinanext
-Created with CodeSandbox
